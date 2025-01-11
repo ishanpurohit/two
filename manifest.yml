@@ -4,5 +4,5 @@ dev:
     name: aws-preprod
     account_id: 817778839912
     region: us-east-1
-  pattern-release: <Get Latest Release from the AWS-Pattern Repo>
+  pattern-release: <Get Latest Release from the AWS-Pattern Repo> #
 uai: uai123
